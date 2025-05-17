@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Francisco M Barba"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ author:
   email            : "f.barba@tamu.edu"
   googlescholar    : "https://scholar.google.com/citations?user=fmbarba"
   orcid            : "https://orcid.org/0000-0002-5985-3652"
-  github           : "fmbarba"
+  github           : "GitHub.com/fmbarba"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=fmbarba"
