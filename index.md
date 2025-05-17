@@ -5,9 +5,7 @@ author_profile: true
 
 # About Me
 
-Hi! I’m **Francisco Barba**, a PhD student in Economics at Texas A&M University.  
-My research focuses on environmental economics, causal inference, and policy evaluation.  
-I'm passionate about applying data-driven methods to real-world economic and ecological problems.
+I am a PhD student in Economics at Texas A&M University. My research interests are in Applied Microeconomics, Industrial Organization and Development Economics.
 
 ---
 
