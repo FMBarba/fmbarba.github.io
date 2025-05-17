@@ -9,12 +9,6 @@ I am a PhD student in Economics at Texas A&M University. My research interests a
 
 ---
 
-# CV
-
-📄 [Download my CV](files/Francisco_Barba_CV.pdf)
-
----
-
 # Publications
 
 - **Barba FM, Jaimovich D.** Ethnic Diversity and Forest Commons.  
