@@ -17,18 +17,21 @@ I am a PhD student in Economics at Texas A&M University. My research interests a
 
 # Publications
 
-- **“Climate Policy and Economic Growth”**, *Journal of Environmental Economics*, 2024  
-  Co-authored with Jane Doe. A panel data analysis of carbon taxes and GDP.
+- **Barba FM, Jaimovich D.** Ethnic Diversity and Forest Commons.  
+  *World Development*, 2022; 158:105986.  
+  [DOI (if available) or link]
 
-- **“Water Rights and Agricultural Efficiency”**, Working Paper, 2023  
-  Investigating water allocation reforms in arid regions using satellite and survey data.
+- **Barba FM, Huybregts L, Leroy JL.** Incidence correction factors for moderate and severe acute child malnutrition from two longitudinal cohorts in Mali and Burkina Faso.  
+  *American Journal of Epidemiology*, 2020; 189(12):1623–1627.
+
+- **Huybregts L, Le Port A, Becquey E, Zongrone A, Barba FM, et al.** Impact on child acute malnutrition of integrating small-quantity lipid-based nutrient supplements into community-level screening for acute malnutrition: A cluster-randomized controlled trial.  
+  *PLOS Medicine*, 2019; 16(8):e1002877.
 
 ---
 
 # Teaching
 
-- **ECON 461 – Econometrics I**, Teaching Assistant (Spring 2024)  
-- **ECON 202 – Principles of Microeconomics**, Instructor (Fall 2023)
+- **ECON 461 – 
 
 ---
 
