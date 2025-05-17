@@ -28,7 +28,7 @@ I am a PhD student in Economics at Texas A&M University. My research interests a
 
 # Teaching
 
-- **ECON 461 – Economic Data Analysis**, TA with two weekly recitations (Fall 2024, Spring 2025)
+- **ECON 461 – Economic Data Analysis**, TA with two weekly recitations (Fall '24, Spring '25)
 
 ---
 
