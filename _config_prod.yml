@@ -1,0 +1,2 @@
+url: "https://fmbarba.github.io"   # Or your custom domain
+baseurl: ""                         # Use "" if deployed at root; use "/repo-name" if not

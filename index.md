@@ -23,9 +23,9 @@ I am a PhD student in Economics at Texas A&M University. My research interests a
 ---
 
 # Software
-
-- [🔗 clustermax](https://github.com/FMBarba/clustermax): A Stata command to select a maximum number of distance-buffered clusters from point coordinates.
-- [🔗 order2voronoi](https://github.com/FMBarba/order2voronoi): An ArcGIS tool to create Order-2 Voronoi Diagrams.
+#🔗 
+- [clustermax](https://github.com/FMBarba/clustermax): A Stata command to select a maximum number of distance-buffered clusters from point coordinates.
+- [order2voronoi](https://github.com/FMBarba/order2voronoi): An ArcGIS tool to create Order-2 Voronoi Diagrams.
 </section>
 ---
 <section id="teaching">
