@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   avatar           : "https://franciscobarba.com/images/profile.jpg"
   name             : "Francisco M Barba"
-  bio              : "PhD student in Economics at Texas A&M"
-  location         : "Texas, USA"
+  bio              : "PhD student, Economics"
+  #location         : "Texas, USA"
   employer         : "Texas A&M University"
   email            : "f.barba@tamu.edu"
   googlescholar    : "https://scholar.google.com/citations?user=fmbarba"
-  orcid            : "https://orcid.org/0000-0002-5985-3652"
+  #orcid            : "https://orcid.org/0000-0002-5985-3652"
   github           : "GitHub.com/fmbarba"
 
   # Academic websites
