@@ -31,12 +31,14 @@ author:
   #orcid            : "https://orcid.org/0000-0002-5985-3652"
   github           : "GitHub.com/fmbarba"
 
+  # Repositories and software development
+  github           : "github.com\fmbarba"
+
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=fmbarba"
   orcid            : "https://orcid.org/0000-0002-5985-3652"
 
-  # Repositories and software development
-  github           : "github.com\fmbarba"
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

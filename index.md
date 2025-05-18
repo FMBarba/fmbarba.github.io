@@ -2,13 +2,13 @@
 layout: home
 author_profile: true
 ---
-
+<section id="about">
 # About Me
 
 I am a PhD student in Economics at Texas A&M University. My research interests are in Applied Microeconomics, Industrial Organization and Development Economics.
-
+</section>
 ---
-
+<section id="publications">
 # Publications
 
 - **Barba FM**, Jaimovich D. Ethnic Diversity and Forest Commons.  
@@ -20,26 +20,24 @@ I am a PhD student in Economics at Texas A&M University. My research interests a
 - Huybregts L, Le Port A, Becquey E, Zongrone A, **Barba FM**, et al. Impact on child acute malnutrition of integrating small-quantity lipid-based nutrient supplements into community-level screening for acute malnutrition: A cluster-randomized controlled trial.  
   ***PLOS Medicine***, [2019; 16(8):e1002877](https://doi.org/10.1371/journal.pmed.1002892)
 
-
-
----
-
-# Teaching
-
-- **ECON 461 – Economic Data Analysis**, TA with two weekly recitations (Fall '24, Spring '25)
-
 ---
 
 # Software
 
 - [🔗 clustermax](https://github.com/FMBarba/clustermax): A Stata command to select a maximum number of distance-buffered clusters from point coordinates.
 - [🔗 order2voronoi](https://github.com/FMBarba/order2voronoi): An ArcGIS tool to create Order-2 Voronoi Diagrams.
-
+</section>
 ---
+<section id="teaching">
+# Teaching
+
+- **ECON 461 – Economic Data Analysis**, TA with two weekly recitations (Fall '24, Spring '25)
+</section>
+  ---
 
 # Contact
 
 📧 f.barba@tamu.edu
 🔗 [Google Scholar](https://scholar.google.com/citations?user=MPSmP7wAAAAJ&hl=en)  
-🧪 [ORCID](orcid.org/0000-0002-5985-3652)  
-🌍 Texas A&M University
+#🧪 [ORCID](orcid.org/0000-0002-5985-3652)  
+#🌍 Texas A&M University
