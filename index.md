@@ -10,7 +10,6 @@ I am a PhD student in Economics at Texas A&M University. My research interests a
 ---
 
 # Publications
-# Publications
 
 - **Barba FM**, Jaimovich D. Ethnic Diversity and Forest Commons.  
   ***World Development***, [2022; 158:105986](https://doi.org/10.1016/j.worlddev.2022.105986)
