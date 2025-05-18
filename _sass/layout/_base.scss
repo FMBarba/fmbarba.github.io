@@ -2,10 +2,12 @@
    BASE ELEMENTS
    ========================================================================== */
 html {
+  scroll-behavior: smooth;
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
 }
+
 
 body {
   /* Set via _themes.scss */
