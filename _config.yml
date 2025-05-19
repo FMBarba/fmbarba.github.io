@@ -21,22 +21,18 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "https://franciscobarba.com/images/profile.jpg"
-  name             : "Francisco M Barba"
-  bio              : "PhD student, Economics"
-  #location         : "Texas, USA"
-  employer         : "Texas A&M University"
-  email            : "f.barba@tamu.edu"
-  googlescholar    : "https://scholar.google.com/citations?user=fmbarba"
+  avatar         : "https://franciscobarba.com/images/profile.jpg"
+  name           : "Francisco M Barba"
+  bio            : "PhD student, Economics"
+  employer       : "Texas A&M University"
+  email          : "f.barba@tamu.edu"
+  github         : "fmbarba"  
+  googlescholar  : "https://scholar.google.com/citations?user=fmbarba"
+  orcid          : "https://orcid.org/0000-0002-5985-3652"
+
   #orcid            : "https://orcid.org/0000-0002-5985-3652"
-  github           : "GitHub.com/fmbarba"
-
   # Repositories and software development
-  github           : "github.com\fmbarba"
-
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=fmbarba"
-  orcid            : "https://orcid.org/0000-0002-5985-3652"
 
 
 
