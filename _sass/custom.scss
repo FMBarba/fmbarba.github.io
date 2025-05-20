@@ -1,16 +1,105 @@
-ul.no-bullets {
-  list-style-type: none;
-  padding-left: 1.5em; /* restores indentation */
+/* -------------------------------------------------------------------
+ * Custom link color: Texas A&M Maroon (site-wide)
+ * ------------------------------------------------------------------- */
+a {
+  color: #500000;
+
+  &:hover,
+  &:focus {
+    color: #7b0000; /* optional hover variant */
+  }
 }
 
-ul.no-bullets li {
-  position: relative;
-  margin-bottom: 1em;
+/* -------------------------------------------------------------------
+ * Clean link styling inside lists (optional, not scoped to .no-bullets)
+ * ------------------------------------------------------------------- */
+li i {
+  margin-right: 0.5em; /* simple, clean icon spacing */
 }
 
-ul.no-bullets li i {
-  position: absolute;
-  left: 0;
-  top: 0.2em; /* aligns vertically */
-  color: #444;
+h2, h3 {
+  color: #500000;
+  font-weight: 600;
 }
+
+/* -------------------------------------------------------------------
+ * Section styling: soft divider and vertical spacing
+ * ------------------------------------------------------------------- */
+
+
+/* Optional: Background box styling for highlights */
+.contact-info {
+  background-color: #f5f2eb; /* light beige */
+  padding: 1em;
+  border-radius: 6px;
+}
+
+#about {
+  padding-top: 0;
+  margin-top: -2.5em; /* fine-tune upward shift */
+  padding-bottom: 0.25em;
+}
+
+
+section {
+  padding: 1em 0 1.5em;
+  border-bottom: 1px solid #d8d5d1; /* restore the soft divider line */
+}
+
+#publications {
+  padding-top: 0.25em;
+}
+
+.site-title,
+.masthead__menu a.active {
+  color:#500000;
+  font-family: "Lato", sans-serif;
+  font-weight: 600;
+  border-bottom: 2px solid #500000;
+}
+
+/* -------------------------------------------------------------------
+ * Typography refinement
+ * ------------------------------------------------------------------- */
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 17px;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 550; 
+}
+
+a:hover {
+  text-decoration: none;
+  border-bottom: 1px solid #500000;
+}
+
+.visible-links a.active {
+  color: #500000 !important;
+  font-weight: 600 !important;
+  border-bottom: 2px solid #500000 !important;
+}
+
+/* -------------------------------------------------------------------
+ * OLD: Legacy styling for icon lists with no bullets — now unused
+ * ------------------------------------------------------------------- */
+// ul.no-bullets {
+//   list-style-type: none;
+//   padding-left: 1.5em; /* restores indentation */
+// }
+
+// ul.no-bullets li {
+//   position: relative;
+//   margin-bottom: 1em;
+// }
+
+// ul.no-bullets li i {
+//   position: absolute;
+//   left: 0;
+//   top: 0.2em; /* aligns vertically */
+//   color: #444;
+// }

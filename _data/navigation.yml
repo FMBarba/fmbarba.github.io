@@ -14,11 +14,11 @@ main:
 - title: "Publications"
   url: "#publications"
 
-- title: "Teaching"
+- title: "Teaching Assistance"
   url: "#teaching"
 
-- title: "CV"
-  url: "/files/Francisco_Barba_Resume_May_2025.pdf"
+- title: "Resume"
+  url: "#cv"
 
 - title: "Contact"
   url: "#contact"
