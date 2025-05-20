@@ -70,7 +70,7 @@ and
         <a href="https://www.ifpri.org/blog/estimating-burden-child-acute-malnutrition-accurately" target="_blank" rel="noopener noreferrer">
           Estimating the burden of child acute malnutrition accurately
         </a>
-      </strong>, IFPRI Research Post, December 3, 2020
+      </strong>, IFPRI Research Post, December&nbsp;3,&nbsp;2023
     </li>
   </ul>  
 </section>
@@ -97,9 +97,9 @@ and
       2935 Research Parkway, College Station, TX 77845</p>
     <p><i class="fas fa-door-open"></i>  Office: LASB 260</p>
     <p>
-      <a href="https://orcid.org/0000-0002-XXXX-XXXX" target="_blank" rel="noopener noreferrer">ORCID</a> |
+      <a href="https://orcid.org/0000-0002-5985-3652" target="_blank" rel="noopener noreferrer">ORCID</a> |
       <a href="https://github.com/FMBarba" target="_blank" rel="noopener noreferrer">GitHub</a> |
-      <a href="https://scholar.google.com/citations?user=XXXX" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?user=MPSmP7wAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
     </p>
   </div>
 </section>
