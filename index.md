@@ -78,6 +78,8 @@ and
 <section id="teaching">
   <h2>Teaching Assistance</h2>
   <ul>
+    <li><strong>ECON 526 – Antitrust Economics </strong> (Fall 2025)</li>
+    <li><strong>ECON 412 – Public Finance  </strong> (Fall 2025)</li>
     <li><strong>ECON 461 – Economic Data Analysis</strong>, Two weekly recitations (Fall 2024, Spring 2025)</li>
   </ul>
 </section>
