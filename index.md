@@ -78,7 +78,7 @@ and
 <section id="teaching">
   <h2>Teaching Assistance</h2>
   <ul>
-    <li><strong>ECON 526 – Antitrust Economics </strong> (Fall 2025)</li>
+    <li><strong>ECON 426 – Antitrust Economics </strong> (Fall 2025)</li>
     <li><strong>ECON 412 – Public Finance  </strong> (Fall 2025)</li>
     <li><strong>ECON 461 – Economic Data Analysis</strong>, Two weekly recitations (Fall 2024, Spring 2025)</li>
   </ul>
@@ -97,7 +97,7 @@ and
     <p><i class="fas fa-envelope"></i>  f.barba@tamu.edu</p>
     <p><i class="fas fa-map-marker-alt"></i>  Department of Economics, Texas A&M University,<br>
       2935 Research Parkway, College Station, TX 77845</p>
-    <p><i class="fas fa-door-open"></i>  Office: LASB 260</p>
+    <p><i class="fas fa-door-open"></i>  Office: WCSS 260</p>
     <p>
       <a href="https://orcid.org/0000-0002-5985-3652" target="_blank" rel="noopener noreferrer">ORCID</a> |
       <a href="https://github.com/FMBarba" target="_blank" rel="noopener noreferrer">GitHub</a> |
