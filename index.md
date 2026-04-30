@@ -25,9 +25,9 @@ and
   <ul>
     <li>
       Huybregts L, Diop L, Fall T, Barba FM, Brander RL, Toure M, Ouedraogo M, Hien A, Becquey E.<br>
-      <em>The impact of a continuum of care intervention from prevention to treatment on child wasting compared to usual community group activities: a cluster randomized controlled trial in Mali</em>.<br>
+      <em>The impact of a continuum of care intervention from prevention to treatment on child wasting compared with usual community group activities: a cluster-randomized controlled trial in Mali</em>.<br>
       <div class="journal-info">
-        <strong><a href="https://doi.org/10.1016/j.ajcnut.2026.101294" target="_blank" rel="noopener noreferrer">The American Journal of Clinical Nutrition</a></strong>, 2026
+        <strong><a href="https://doi.org/10.1016/j.ajcnut.2026.101294" target="_blank" rel="noopener noreferrer">The American Journal of Clinical Nutrition</a></strong>, 2026; 123(6):101294
       </div>
     </li>
     <li>
