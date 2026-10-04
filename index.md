@@ -94,7 +94,7 @@ and
 <section id="cv">
   <h2>Resume</h2>
   <div class="contact-info">
-    <p><i class="fas fa-file-pdf"></i> <a href="/files/Francisco_Barba_Resume_March_2026.pdf" target="_blank" rel="noopener noreferrer">Download Resume (PDF)</a></p>
+    <p><i class="fas fa-file-pdf"></i> <a href="/files/Francisco_Barba_Resume_October_2026.pdf" target="_blank" rel="noopener noreferrer">Download Resume (PDF)</a></p>
   </div>
 </section>
 
